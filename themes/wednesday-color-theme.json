@@ -3,10 +3,42 @@
 	"colors": {
 		"editor.background": "#040621",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#313051",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"activityBar.activeBackground": "#ff0000",
-		"statusBar.background": "#ff0000",
+		"activityBar.activeBackground": "#222340",
+		"activityBar.activeBorder": "#341eb4",	
+		"activityBar.background": "#040621",
+		"activityBar.inactiveForeground": "#6b61a1",
+		"activityBarBadge.foreground": "#f0f0f0",
+		"activityBarBadge.background": "#F74B64",
+		"badge.background": "#F74B64",
+		"badge.foreground": "#f0f0f0",
+		"button.foreground": "#f0f0f0",
+		"button.background": "#6b61a1",
+		"button.hoverBackground": "#5B598Bff",
+		"checkbox.background": "#1e0c33",
+		"dropdown.background": "#1e0c33",
+		"input.background": "#1e0c33",
+		"focusBorder": "#3E4A62",
+		"titleBar.activeBackground": "#040621",
+		"tab.hoverBorder": "#3E4A62",
+		"tab.inactiveBackground": "#150f2e",
+		"tab.inactiveForeground": "#3E4A62",
+		"tab.border": "#1e0c33",
+		"tab.activeBorderTop": "#341eb4",
+		"editor.hoverHighlightBackground": "#1e0c33",
+		"editorRuler.foreground": "#1e0c33",
+		"menu.background": "#1e0c33",
+		"menu.foreground": "#b9a0c4",
+		"menu.selectionBorder": "#040621",
+		"menu.selectionBackground": "#040621",
+		"panel.border": "#341eb4",
+		"selection.background": "#341eb4",
+		"sideBar.background": "#150f2e",
+		"sideBar.foreground": "#aaa",
+		"sideBarSectionHeader.background": "#120a29",
+		"sideBarSectionHeader.foreground": "#aaaaaa",
+		"editorGroupHeader.tabsBackground": "#040621",
+		"statusBar.background": "#150f2e",
 	},
 	"tokenColors": [
 		{
@@ -151,7 +183,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#BAB5D2"
+				"foreground": "#f0bda0"
 			}
 		},
 		{
