@@ -1,11 +1,21 @@
 {
-  "name": "wednesday-dark-theme",
-  "displayName": "Wednesday",
+  "name": "wednesday-theme",
+  "displayName": "Wednesday theme",
   "description": "Wednesday theme!",
+  "publisher": "LeonardoMarzochi",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "keywords": [
+    "theme",
+    "wednesday",
+    "dark theme",
+    "code",
+    "purple",
+    "tema escuro",
+    "tema"
+  ],
   "categories": [
     "Themes"
   ],
@@ -14,7 +24,7 @@
       {
         "label": "Wednesday Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Wednesday Theme-color-theme.json"
+        "path": "./themes/wednesday-color-theme.json"
       }
     ]
   }
