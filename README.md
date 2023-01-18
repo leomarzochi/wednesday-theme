@@ -1,7 +1,8 @@
-# wednesday-dark-theme README
+## Wednesday Theme
 
-## Wednesday theme
 
-Inspired by the netflx show Wedensdey on Netflix
+![wednesday theme](https://github.com/leomarzochi/wednesday-theme/blob/master/assets/screenshot.png?raw=true)
+
+This theme was inspired by the colors of Wednesday show on netflix.
 
 **Enjoy!**
